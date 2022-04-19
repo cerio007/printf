@@ -59,8 +59,8 @@ If the program runs successfully, the return value is the amount of chars printe
 `print_upx.c` | Function that prints a decimal in hexadecimal
 `print_usr.c` | Function That Prints A String And Values Of Non-Printed Chars.
 
-Authors
+## Authors
 **Moshood Ahmed** and **Abosi Chijioke Cyprian**
 
-End
+## End
 **Moshood** & **Chijioke** @ ALX software engineering programme 2022.
