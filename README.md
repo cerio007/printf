@@ -17,6 +17,7 @@ If the program runs successfully, the return value is the amount of chars printe
 
 ## File
 **File name** | **Description**
+--- | ---
 `_printf.c` | Function That Performs Formatted Output Conversion And Print Data.
 
 `ev_print_func.c` | Function That Returns The Amount Of Indetifiers.
